@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/billscommerce/": "./",
+
     "deco-sites/deco-bf/": "./",
 
     "$store/": "./",
